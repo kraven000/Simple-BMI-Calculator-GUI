@@ -15,7 +15,7 @@ This Python script provides a simple graphical user interface (GUI) for calculat
 6. Click "Exit!!" to close the application.
 
 ### Files:
-- `bmi_calculator.py`: The main Python script containing the BMI calculator code.
+- `main.py`: The main Python script containing the BMI calculator code.
 - `icon.png`: Icon file for the application window (replace with your desired icon).
 
 ### How It Works:
