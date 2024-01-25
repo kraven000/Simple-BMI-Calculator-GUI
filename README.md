@@ -3,7 +3,7 @@
 This Python script provides a simple graphical user interface (GUI) for calculating Body Mass Index (BMI) using the Tkinter library. BMI is a measure of body fat based on height and weight that applies to adult men and women.
 
 ### Requirements:
-- Python 3.x
+- Python 3. x
 - Tkinter library (usually comes pre-installed with Python)
 
 ### How to Use:
@@ -21,7 +21,7 @@ This Python script provides a simple graphical user interface (GUI) for calculat
 ### How It Works:
 - The script takes input for height and weight.
 - On clicking the "SUBMIT!!!" button, it calculates the BMI using the formula: BMI = weight (kg) / height (m)^2.
-- It then classifies the BMI into categories: Underweight, Normal, Overweight, or Obese.
+- It then classifies the BMI: Underweight, Normal, Overweight, or Obese.
 - The result is displayed in a message box.
 - Error handling is implemented to handle incorrect inputs or exceptions.
 
@@ -32,11 +32,11 @@ This Python script provides a simple graphical user interface (GUI) for calculat
 - A clean and simple interface for easy interaction.
 
 ### Note:
-- Ensure to input height in meters and weight in kilograms for accurate results.
+- Ensure input height in meters and weight in kilograms for accurate results.
 - This application is for educational purposes and should not replace professional medical advice.
 
 ### Author:
 - This script was created by Akhilesh Verma.
 
 ### License:
-- This project is licensed under MIT liense.
+- This project is licensed under MIT license.
